@@ -1,0 +1,2 @@
+add_executable(org_chart_test test_main.cc)
+target_link_libraries(org_chart_test PRIVATE drogon)
